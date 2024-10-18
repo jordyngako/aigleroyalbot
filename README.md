@@ -59,19 +59,3 @@ No, my greedy friend. Sometimes, you can have profitable days, but you will lose
 `What's the purpose of the Bot then?`
 The goal of the bot is to strengthen your Python programming skills, motivating you with the illusory opportunity to get rich.
 
-### Telegram
-https://t.me/pocketoption_trading_bot
-
-### Donations
-If you want to thank the author for his amazing work:
-
-buy me a coffee:
-https://buymeacoffee.com/vitaliisviatiuk
-
-or
-
-Patreon: https://www.patreon.com/pocket_option_trading_bot
-
-or
-
-send your BTC here: `bc1qemxzzy6rq6ycxjn0f00yqgptjqldkms8g2ucu0`
